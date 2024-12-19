@@ -75,7 +75,7 @@ const Home = () => {
           Dive into a world of possibilities and broaden your horizons.
         </p>
 
-        <p className="text-4xl font-sans flex justify-start pl-9 lg:pl-14 my-10">
+        <p className="text-4xl font-sans flex justify-start pl-14 my-10">
           Most Popular Courses
         </p>
 
@@ -189,7 +189,7 @@ const Home = () => {
         </div>
 
         <div className="my-8 pt-20">
-          <h1 className="text-5xl font-bold text-center">
+          <h1 className="text-5xl font-bold text-center leading-tight">
             News and <span className=" bg-sky-200">Upd</span>ates
           </h1>
           <p className="text-md lg:text-md font-sans px-4 text-center mt-5">

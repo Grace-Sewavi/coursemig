@@ -38,6 +38,8 @@ export default function Card() {
       slidesToShow: 1,
       slidesToScroll: 1,
       initialSlide: 0,
+      autoplay:true,
+      autoplaySpeed: 3000,
       responsive: [
         {
           breakpoint: 1024,
@@ -46,6 +48,8 @@ export default function Card() {
             slidesToScroll: 1,
             infinite: true,
             dots: true,
+            autoplay:true,
+            autoplaySpeed: 3000,
           },
         },
         {
@@ -54,6 +58,8 @@ export default function Card() {
             slidesToShow: 1,
             slidesToScroll: 1,
             initialSlide: 1,
+            autoplay:true,
+            autoplaySpeed: 3000,
           },
         },
         {
@@ -61,6 +67,8 @@ export default function Card() {
           settings: {
             slidesToShow: 1,
             slidesToScroll: 1,
+            autoplay:true,
+            autoplaySpeed: 3000,
           },
         },
       ],
