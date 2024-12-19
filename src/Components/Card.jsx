@@ -68,7 +68,7 @@ export default function Card() {
   
     return (
       <div>
-        <section className="bg-slate-100 py-8">
+        <section className="py-8">
   
           <div className="w-full h-fit p-8 mt-12">
             <Slider {...settings}>
