@@ -68,7 +68,7 @@ export default function Card() {
   
     return (
       <div>
-        <sectiSon className="bg-slate-100 py-8">
+        <section className="bg-slate-100 py-8">
   
           <div className="w-full h-fit p-8 mt-12">
             <Slider {...settings}>
@@ -107,7 +107,7 @@ export default function Card() {
               ))}
             </Slider>
           </div>
-        </sectiSon>
+        </section>
       </div>
     );
   }
