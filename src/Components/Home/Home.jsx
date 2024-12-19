@@ -1,5 +1,5 @@
 import "react";
-import "./home.css";
+import "./Home.css";
 import { courses_data, trending_data, certificate_data } from "./Courses_data";
 import { news_data } from "./News_data";
 import { LazyLoadImage } from 'react-lazy-load-image-component';
