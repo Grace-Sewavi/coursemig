@@ -9,10 +9,10 @@ import testC from '../../assets/test-3.png'
 const About = () => {
   return (
     <>
-      <div className='about-img py-32 '>
-        <p className='text text-xl font-bold pt-12'>Our Ambition</p>
+      <div className='about-img py-32'>
+        <p className='text text-xl font-bold pt-20'>Our Ambition</p>
       <h1 className='md:text-5xl text-4xl mt-2 font-bold leading-snug'><span className=' bg-sky-400'>Empo</span>wering individuals <br/> globally</h1>
-          <button className='lg:mt-10 mt-10 md:py-5 md:px-12 px-8 py-3 text-black bg-white font-sans font-bold rounded-md text-md'>Stories from Our Learners</button>
+          <button className='lg:mt-20 mt-10 md:py-5 md:px-12 px-8 py-3 text-black bg-white font-sans font-bold rounded-md text-md'>Stories from Our Learners</button>
       </div>
 
       <div className='w-full mt-20'>
